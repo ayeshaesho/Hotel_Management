@@ -1,0 +1,24 @@
+.menu-item{
+	font-weight: bold;
+	transition: all 0.3s ease-in;
+}
+.menu-item:hover {
+	color: orange !important;
+}
+.nav-btn{
+	outline: none;
+	border: none;
+	transition: all 0.3s ease-in;
+}
+.nav-btn:hover{
+	background-color: #07294d;
+	color: white;
+}
+.btn:focus, .btn:active:focus, .btn.active:focus{
+    outline:none;
+    box-shadow:none;
+	
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(160, 159, 159);
+}

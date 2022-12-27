@@ -1,0 +1,46 @@
+[
+	{
+		"id": 1,
+		"name": "D'Nova HotelOpens in new window",
+		"price": 500.00,
+		"image": "https://i.postimg.cc/Rhmcnfjq/Dianamic.jpg",
+		"description": "This Murrells Inlet hotel features rooms with free Wi-Fi and 32-inch flat-screen cable TVs. The hotel has an outdoor pool and whirlpool and Myrtle Beach International Airport is within 14 miles."
+	},
+
+
+	{
+		"id": 2,
+		"name": "HOTEL JJH - newly opened near BUGIS",
+		"price": 400.00,
+		"image": "https://i.postimg.cc/nVKKfRDm/room1.jpg",
+		"description": "This Murrells Inlet hotel features rooms with free Wi-Fi and 32-inch flat-screen cable TVs. The hotel has an outdoor pool and whirlpool and Myrtle Beach International Airport is within 14 miles."
+	},
+	{
+		"id": 3,
+		"name": "Hotel 81 Premier PrincessOpens in new window",
+		"price": 700.60,
+		"image": "https://i.postimg.cc/vHQrYrrN/room2.jpg",
+		"description": "This Murrells Inlet hotel features rooms with free Wi-Fi and 32-inch flat-screen cable TVs. The hotel has an outdoor pool and whirlpool and Myrtle Beach International Airport is within 14 miles."
+	},
+	{
+		"id": 4,
+		"name": "Ibis Budget Singapore PearlOpens in new window",
+		"price": 678.89,
+		"image": "https://i.postimg.cc/WbXMhdSb/room3.jpg",
+		"description": "This Murrells Inlet hotel features rooms with free Wi-Fi and 32-inch flat-screen cable TVs. The hotel has an outdoor pool and whirlpool and Myrtle Beach International Airport is within 14 miles."
+	},
+	{
+		"id": 5,
+		"name": "Ibis Styles Singapore On Macpherson",
+		"price": 360.70,
+		"image": "https://i.postimg.cc/QdCc5jng/room4.jpg",
+		"description": "This Murrells Inlet hotel features rooms with free Wi-Fi and 32-inch flat-screen cable TVs. The hotel has an outdoor pool and whirlpool and Myrtle Beach International Airport is within 14 miles."
+	},
+	{
+		"id": 6,
+		"name": "Ibis Budget Singapore Joo Chiat",
+		"price": 900.00,
+		"image": "https://i.postimg.cc/nhWBGN6y/room5.jpg",
+		"description": "“beds very comfortable and the view of the opera house was magnificent!”"
+	}
+]

@@ -1,0 +1,28 @@
+.not-found img {
+	width: 900px;
+}
+@media screen and (max-width:1100px) {
+	.not-found img {
+		width: 600px;
+	}
+}
+@media screen and (max-width:700px) {
+	.not-found img {
+		width: 400px;
+	}
+}
+@media screen and (max-width:500px) {
+	.not-found img {
+		width: 350px;
+	}
+}
+@media screen and (max-width:400px) {
+	.not-found img {
+		width: 300px;
+	}
+}
+@media screen and (max-width:300px) {
+	.not-found img {
+		width: 280px;
+	}
+}
